@@ -1,0 +1,29 @@
+#gameDiv{
+    font-family:'Aileron',cursive;
+    border:3px solid;
+    border-radius:25px;
+    padding:15px;
+    text-align: center;
+    color:#40c437;
+    background-color:#222222;
+
+}
+
+.choiceBtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #333333;
+    color: white;
+    cursor: pointer;
+    font-family: consolas monospace;
+    width:150px; 
+}
+
+#playerText{
+    color:#ff2800;
+}
+#computerText{
+    color:#0000ff
+}
